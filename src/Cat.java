@@ -1,8 +1,8 @@
 public class Cat {
 
 
-    String catName = "";
-    String catGender = "";
+    string catName = "";
+    string catGender = "";
     int catAge;
 
 
